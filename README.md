@@ -3,3 +3,6 @@
 最後再以熱度圖的方式呈現抓下來的旅館資料 如下  
 
 ![image](https://github.com/gKeroro/Tripadvisor_Scrape/blob/master/Heatmap.GIF)
+
+程式碼的結果可參考此連結:  
+https://nbviewer.jupyter.org/github/gKeroro/Tripadvisor_Scrape/blob/master/Tripadvisor.ipynb
